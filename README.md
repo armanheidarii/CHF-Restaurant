@@ -8,12 +8,12 @@ here are some photos of this app .
 
 ## photos :
 
-![Restaurant_photos2](https://user-images.githubusercontent.com/79783493/120555547-78321100-c410-11eb-88d3-0128d5024cc9.jpg)
+![image](https://user-images.githubusercontent.com/80320242/131163189-9f7139bf-0530-4143-80fc-b016487514f5.png)
 
-![Restaurant_photos3](https://user-images.githubusercontent.com/79783493/120555776-ce06b900-c410-11eb-940b-b7082d66836b.jpg)
+![image](https://user-images.githubusercontent.com/80320242/131163237-fd242920-e587-434b-8665-96fde39a38d1.png)
 
-![Restaurant_photos4](https://user-images.githubusercontent.com/79783493/120555823-dfe85c00-c410-11eb-8f2c-95a1487ec091.jpg)
+![image](https://user-images.githubusercontent.com/80320242/131163290-65af8825-e626-4e84-8e24-1f0ef26ee6f0.png)
 
-![Restaurant_photos6](https://user-images.githubusercontent.com/79783493/120555871-f1316880-c410-11eb-8f7a-31d45a2bf92d.jpg)
+![image](https://user-images.githubusercontent.com/80320242/131163334-5d4fec92-37d0-434b-8ff4-7b89bed44ac4.png)
 
-![resturant_photos](https://user-images.githubusercontent.com/79783493/120555987-2047da00-c411-11eb-8ada-d9282953a472.png)
+![image](https://user-images.githubusercontent.com/80320242/131163376-c5109795-b37b-483d-a9bf-d38537a12557.png)
